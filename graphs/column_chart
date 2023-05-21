@@ -6,8 +6,8 @@
         function drawChart() {
             var data = google.visualization.arrayToDataTable([
                 ['Platform', 'Defects'],
-                ['Windows', 22],
-                ['Android', 3],
+                ['Windows', 21],
+                ['Android', 2],
             ]);
 
             var options = {

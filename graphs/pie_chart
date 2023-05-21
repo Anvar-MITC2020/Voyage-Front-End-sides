@@ -7,9 +7,9 @@
             var data = google.visualization.arrayToDataTable([
                 ['Defects', 'Defects'],
                 ['Critical', 13],
-                ['Major', 6],
-                ['Average', 4],
-                ['Minor', 2],
+                ['Major', 4],
+                ['Average', 1],
+                ['Minor', 5],
             ]);
             var options = {
                 chartArea: {
