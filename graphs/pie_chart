@@ -6,10 +6,11 @@
         function drawChart() {
             var data = google.visualization.arrayToDataTable([
                 ['Defects', 'Defects'],
-                ['Critical', 13],
-                ['Major', 4],
-                ['Average', 1],
-                ['Minor', 5],
+                ['Critical', 8],
+                ['Major', 12],
+                ['Average', 21],
+                ['Minor', 44],
+                ['Enhancement', 15],
             ]);
             var options = {
                 chartArea: {
